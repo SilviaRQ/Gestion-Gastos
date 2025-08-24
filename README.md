@@ -23,4 +23,14 @@ supermercado 1500
 - `/docs`: imágenes y diagramas del flujo.
 - `README.md`: documentación del proyecto.
 
+## 📌 Estado del proyecto
+🚧 En construcción. Actualmente la automatización básica funciona, pero está en etapa de mejora.  
+
+## 💡 Posibles mejoras a futuro
+- [ ] Manejar distintos tipos de monedas.  
+- [ ] Categorizar gastos automáticamente según palabras clave.  
+- [ ] Enviar reportes semanales o mensuales por Telegram.  
+- [ ] Generar gráficos de gastos directamente desde Google Sheets o Power BI.  
+- [ ] Añadir validaciones en los mensajes (ejemplo: corregir formatos incorrectos).  
+
 ---
